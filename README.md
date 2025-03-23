@@ -33,7 +33,7 @@ DATABASES = {<br>
         'HOST': 'localhost',<br>
         'PORT': '3306',<br>
     }
-}<br>
+}
 <br><br>
 
 <b>3. Run Migrations</b><br>
